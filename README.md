@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ## ABOUT ME ✍️
 Hi, I'm Mwikyo.  
-<p>SRE on the team behind <span><a href="https://safeboda.com" style="color:#ff8800; target="_blank">safeboda.com.</a></span></p> 
+<p>SRE on the team behind <span style="color:#ff8800;><a href="https://safeboda.com" target="_blank">safeboda.com.</a></span></p> 
 Less moody in real life. ✌️  
 
 ## SOCIAL
