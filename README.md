@@ -1,18 +1,14 @@
 ![Header](./github-header-image.png)
 ## ABOUT ME ✍️
-Hi, I'm Mwikyo.  
 <p>SRE on the team behind <span><a href="https://safeboda.com" target="_blank" style="color:orange;">safeboda.com.</a></span></p> 
 Less moody in real life. ✌️  
 
 ## SOCIAL
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://linkedin.com/in/mwikyo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/mwikyoug">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
