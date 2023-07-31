@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 ## ABOUT ME ✍️
-Hi, I'm Mwikyo.
-S.R.E on the team behind safeboda.com.
-Less moody in real life. ✌️
+Hi, I'm Mwikyo.  
+S.R.E on the team behind safeboda.com.  
+Less moody in real life. ✌️  
 
 ## SOCIAL
 <div id="badges">
