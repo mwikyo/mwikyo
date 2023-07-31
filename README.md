@@ -1,11 +1,11 @@
 ![Header](./github-header-image.png)
-## ABOUT ME ✍️
+###### ABOUT ME ✍️
 <p>SRE on the team behind <span><a href="https://safeboda.com" target="_blank" style="color:orange;">safeboda.com.</a></span></p> 
 Less moody in real life. ✌️  
 
 
 
-## SOCIAL
+###### SOCIAL
 <div id="badges">
   <a href="https://linkedin.com/in/mwikyo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@ Less moody in real life. ✌️
 
 
 
-## LANGUAGES AND TOOLS
+###### LANGUAGES AND TOOLS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
