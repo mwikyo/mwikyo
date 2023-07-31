@@ -3,6 +3,8 @@
 <p>SRE on the team behind <span><a href="https://safeboda.com" target="_blank" style="color:orange;">safeboda.com.</a></span></p> 
 Less moody in real life. ✌️  
 
+
+
 ## SOCIAL
 <div id="badges">
   <a href="https://linkedin.com/in/mwikyo">
@@ -13,6 +15,8 @@ Less moody in real life. ✌️
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=mwikyo&style=flat-square&color=blue" alt=""/>
+
+
 
 ## LANGUAGES AND TOOLS
 <div>
@@ -32,6 +36,8 @@ Less moody in real life. ✌️
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
 
 ## MY STATS :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mwikyo&theme=neon)](https://git.io/streak-stats)  
